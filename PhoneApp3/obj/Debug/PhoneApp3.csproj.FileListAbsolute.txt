@@ -1,0 +1,57 @@
+c:\users\135nciblokusp\documents\visual studio 2012\Projects\PhoneApp3\PhoneApp3\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\135nciblokusp\documents\visual studio 2012\Projects\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\135nciblokusp\documents\visual studio 2012\Projects\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\135nciblokusp\documents\visual studio 2012\Projects\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\135nciblokusp\documents\visual studio 2012\Projects\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\135nciblokusp\documents\visual studio 2012\Projects\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\135nciblokusp\documents\visual studio 2012\Projects\PhoneApp3\PhoneApp3\Bin\Debug\PhoneApp3.dll
+c:\users\135nciblokusp\documents\visual studio 2012\Projects\PhoneApp3\PhoneApp3\Bin\Debug\PhoneApp3.pdb
+c:\users\135nciblokusp\documents\visual studio 2012\Projects\PhoneApp3\PhoneApp3\Bin\Debug\AppManifest.xaml
+c:\users\135nciblokusp\documents\visual studio 2012\Projects\PhoneApp3\PhoneApp3\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\135nciblokusp\documents\visual studio 2012\Projects\PhoneApp3\PhoneApp3\Bin\Debug\PhoneApp3_Debug_AnyCPU.xap
+c:\users\135nciblokusp\documents\visual studio 2012\Projects\PhoneApp3\PhoneApp3\obj\Debug\App.g.cs
+c:\users\135nciblokusp\documents\visual studio 2012\Projects\PhoneApp3\PhoneApp3\obj\Debug\MainPage.g.cs
+c:\users\135nciblokusp\documents\visual studio 2012\Projects\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.g.resources
+c:\users\135nciblokusp\documents\visual studio 2012\Projects\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.Resources.AppResources.resources
+c:\users\135nciblokusp\documents\visual studio 2012\Projects\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.csproj.GenerateResource.Cache
+c:\users\135nciblokusp\documents\visual studio 2012\Projects\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.dll
+c:\users\135nciblokusp\documents\visual studio 2012\Projects\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.pdb
+c:\users\135nciblokusp\documents\visual studio 2012\Projects\PhoneApp3\PhoneApp3\obj\Debug\XapCacheFile.xml
+C:\Users\135nciblokusp\Documents\Visual Studio 2012\Projects\PhoneApp3 — kopia\PhoneApp3\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\135nciblokusp\Documents\Visual Studio 2012\Projects\PhoneApp3 — kopia\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\135nciblokusp\Documents\Visual Studio 2012\Projects\PhoneApp3 — kopia\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\135nciblokusp\Documents\Visual Studio 2012\Projects\PhoneApp3 — kopia\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\135nciblokusp\Documents\Visual Studio 2012\Projects\PhoneApp3 — kopia\PhoneApp3\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\135nciblokusp\Documents\Visual Studio 2012\Projects\PhoneApp3 — kopia\PhoneApp3\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\135nciblokusp\Documents\Visual Studio 2012\Projects\PhoneApp3 — kopia\PhoneApp3\Bin\Debug\PhoneApp3.dll
+C:\Users\135nciblokusp\Documents\Visual Studio 2012\Projects\PhoneApp3 — kopia\PhoneApp3\Bin\Debug\PhoneApp3.pdb
+C:\Users\135nciblokusp\Documents\Visual Studio 2012\Projects\PhoneApp3 — kopia\PhoneApp3\obj\Debug\App.g.cs
+C:\Users\135nciblokusp\Documents\Visual Studio 2012\Projects\PhoneApp3 — kopia\PhoneApp3\obj\Debug\MainPage.g.cs
+C:\Users\135nciblokusp\Documents\Visual Studio 2012\Projects\PhoneApp3 — kopia\PhoneApp3\obj\Debug\PhoneApp3.g.resources
+C:\Users\135nciblokusp\Documents\Visual Studio 2012\Projects\PhoneApp3 — kopia\PhoneApp3\obj\Debug\PhoneApp3.Resources.AppResources.resources
+C:\Users\135nciblokusp\Documents\Visual Studio 2012\Projects\PhoneApp3 — kopia\PhoneApp3\obj\Debug\PhoneApp3.csproj.GenerateResource.Cache
+C:\Users\135nciblokusp\Documents\Visual Studio 2012\Projects\PhoneApp3 — kopia\PhoneApp3\obj\Debug\PhoneApp3.dll
+C:\Users\135nciblokusp\Documents\Visual Studio 2012\Projects\PhoneApp3 — kopia\PhoneApp3\obj\Debug\PhoneApp3.pdb
+C:\Users\135nciblokusp\Documents\Visual Studio 2012\Projects\PhoneApp3 — kopia\PhoneApp3\Bin\Debug\AppManifest.xaml
+C:\Users\135nciblokusp\Documents\Visual Studio 2012\Projects\PhoneApp3 — kopia\PhoneApp3\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\135nciblokusp\Documents\Visual Studio 2012\Projects\PhoneApp3 — kopia\PhoneApp3\Bin\Debug\PhoneApp3_Debug_AnyCPU.xap
+C:\Users\135nciblokusp\Documents\Visual Studio 2012\Projects\PhoneApp3 — kopia\PhoneApp3\obj\Debug\XapCacheFile.xml
+C:\Users\Przemek\Desktop\zadania\PhoneApp3 — kopia\PhoneApp3\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Przemek\Desktop\zadania\PhoneApp3 — kopia\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Przemek\Desktop\zadania\PhoneApp3 — kopia\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Przemek\Desktop\zadania\PhoneApp3 — kopia\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Przemek\Desktop\zadania\PhoneApp3 — kopia\PhoneApp3\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Przemek\Desktop\zadania\PhoneApp3 — kopia\PhoneApp3\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Przemek\Desktop\zadania\PhoneApp3 — kopia\PhoneApp3\Bin\Debug\PhoneApp3.dll
+C:\Users\Przemek\Desktop\zadania\PhoneApp3 — kopia\PhoneApp3\Bin\Debug\PhoneApp3.pdb
+C:\Users\Przemek\Desktop\zadania\PhoneApp3 — kopia\PhoneApp3\Bin\Debug\AppManifest.xaml
+C:\Users\Przemek\Desktop\zadania\PhoneApp3 — kopia\PhoneApp3\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Przemek\Desktop\zadania\PhoneApp3 — kopia\PhoneApp3\Bin\Debug\PhoneApp3_Debug_AnyCPU.xap
+C:\Users\Przemek\Desktop\zadania\PhoneApp3 — kopia\PhoneApp3\obj\Debug\App.g.cs
+C:\Users\Przemek\Desktop\zadania\PhoneApp3 — kopia\PhoneApp3\obj\Debug\MainPage.g.cs
+C:\Users\Przemek\Desktop\zadania\PhoneApp3 — kopia\PhoneApp3\obj\Debug\PhoneApp3.g.resources
+C:\Users\Przemek\Desktop\zadania\PhoneApp3 — kopia\PhoneApp3\obj\Debug\PhoneApp3.Resources.AppResources.resources
+C:\Users\Przemek\Desktop\zadania\PhoneApp3 — kopia\PhoneApp3\obj\Debug\PhoneApp3.csproj.GenerateResource.Cache
+C:\Users\Przemek\Desktop\zadania\PhoneApp3 — kopia\PhoneApp3\obj\Debug\PhoneApp3.dll
+C:\Users\Przemek\Desktop\zadania\PhoneApp3 — kopia\PhoneApp3\obj\Debug\PhoneApp3.pdb
+C:\Users\Przemek\Desktop\zadania\PhoneApp3 — kopia\PhoneApp3\obj\Debug\XapCacheFile.xml
